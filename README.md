@@ -1,4 +1,4 @@
-# List of tasks
+# List of tasks React App
 Simple App where you can add your own list of tasks to do. You can choose which one you want to do first or you can click a button "What should I do?", so computer can pick task for you. 
 
 # Build With
@@ -8,4 +8,4 @@ Simple App where you can add your own list of tasks to do. You can choose which 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 
-# ListOfTasksReact
+
